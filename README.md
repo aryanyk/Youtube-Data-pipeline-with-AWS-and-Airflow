@@ -16,10 +16,7 @@ Does the most popular video category change over time? If so, how?
 
 For a step-by-step breakdown of how the project was conducted, check out the following article: https://medium.com/towards-data-science/creating-a-youtube-data-pipeline-with-aws-and-apache-airflow-e5d3b11de9c2
 
-## Author
-Aashish Nair  
-LinkedIn: www.linkedin.com/in/aashish-nair  
-Medium: https://medium.com/@aashishnair
+
 
 
 
